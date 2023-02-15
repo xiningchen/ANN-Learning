@@ -1,5 +1,5 @@
 # ANN Learning Projects
--------
+
 Personal project to learn what is ANN by working through the Neural NEtworks and Deep Learning textbook by Michael Nielsen. Also most models are not built from scratch by programming a node and choosing it's activation function, I want to learn/apply PyTorch and TensorFlow to build a few models for some mini projects. Current projects in mind: 
 1. Pokemon Classification - Identifying all pokemons in an image and labeling them with their names. 
 
